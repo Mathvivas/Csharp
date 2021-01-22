@@ -1,3 +1,5 @@
+using System;
+
 namespace Estrutura
 {
     public class Pilha

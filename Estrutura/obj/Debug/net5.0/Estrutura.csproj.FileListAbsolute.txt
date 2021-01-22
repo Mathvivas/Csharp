@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/Estrutura
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/Estrutura.deps.json
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/Estrutura.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/Estrutura.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/Estrutura.dll
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/ref/Estrutura.dll
+/home/usuario/Mauá/C#/Csharp/Estrutura/bin/Debug/net5.0/Estrutura.pdb
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.dll
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/ref/Estrutura.dll
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.pdb
+/home/usuario/Mauá/C#/Csharp/Estrutura/obj/Debug/net5.0/Estrutura.genruntimeconfig.cache
