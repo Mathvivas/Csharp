@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/Instructions
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/Instructions.deps.json
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/Instructions.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/Instructions.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/Instructions.dll
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/ref/Instructions.dll
+/home/usuario/Mauá/C#/Csharp/Instructions/bin/Debug/net5.0/Instructions.pdb
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.dll
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/ref/Instructions.dll
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.pdb
+/home/usuario/Mauá/C#/Csharp/Instructions/obj/Debug/net5.0/Instructions.genruntimeconfig.cache
