@@ -1,0 +1,15 @@
+dotnet new console -n [nome da pasta]
+
+cd [nome da pasta]
+
+explorer .
+
+code .
+
+dotnet restore
+
+dotnet build
+
+- Dentro da pasta --> dotnet run
+
+- Fora da pasta --> dotnet run -p [nome da pasta]/
