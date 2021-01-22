@@ -33,6 +33,13 @@ namespace Instructions
 
             } while (loop == "sim");
 
+
+            // Observação
+
+            // if (valor == 0)      Se o valor for zero
+            // {
+            //     return;          Retorna e para a execução. 
+            // }                    Se existir algo depois, não será executado.
         }
     }
 }
