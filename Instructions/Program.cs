@@ -40,6 +40,15 @@ namespace Instructions
             // {
             //     return;          Retorna e para a execução. 
             // }                    Se existir algo depois, não será executado.
+
+
+
+            // Observação 2
+            // Array
+
+            // int[] arr = new int[10];
+            // int[] arr2 = new int[] {1, 2, 3};
+            // int[] arr3 = {1, 2, 3};
         }
     }
 }
