@@ -36,14 +36,25 @@ namespace Alunos
                     case "2":
                         foreach( Aluno aluno1 in alunos ) {
 
-                            if ( aluno1.Nome != null ) {
+                            if ( aluno1.Nome != null ) {     // !string .IsNullOrEmpty(aluno1.Nome)
                                 Console.WriteLine($"\nALUNO: {aluno1.Nome} \nNOTA: {aluno1.Nota} \n_________________");
                             }
                         }
                         break;
 
                     case "3":
+                        decimal total = 0;
+                        int numAlu = 0;
 
+                        for ( int i = 0; i < alunos.Length; i++ ) {
+                            if ( alunos[i].Nome != null ) {
+                                total += alunos[i].Nota;
+                                numAlu++; 
+                            }
+                        }
+
+                        decimal media = total / numAlu;
+                        Console.WriteLine($"\nMÉDIA: {media}");
                         break;
 
                     case "0":
@@ -51,7 +62,9 @@ namespace Alunos
                         break;
 
                     default:
-                        throw new ArgumentOutOfRangeException();
+                        Console.WriteLine("\nOpção não existe! Tente outra vez!");    // Não para a execução
+                        //throw new ArgumentOutOfRangeException();                  // Para a execução
+                        break;
                 }
 
             } while ( opcao != "0" );
