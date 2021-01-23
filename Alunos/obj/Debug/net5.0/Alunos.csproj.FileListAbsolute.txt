@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/Alunos
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/Alunos.deps.json
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/Alunos.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/Alunos.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/Alunos.dll
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/ref/Alunos.dll
+/home/usuario/Mauá/C#/Csharp/Alunos/bin/Debug/net5.0/Alunos.pdb
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.dll
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/ref/Alunos.dll
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.pdb
+/home/usuario/Mauá/C#/Csharp/Alunos/obj/Debug/net5.0/Alunos.genruntimeconfig.cache
