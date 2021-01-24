@@ -27,6 +27,7 @@ namespace Application
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddDbContext<Context>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
