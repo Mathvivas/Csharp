@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/Gasolina
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/Gasolina.deps.json
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/Gasolina.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/Gasolina.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/Gasolina.dll
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/ref/Gasolina.dll
+/home/usuario/Mauá/C#/Csharp/Gasolina/bin/Debug/net5.0/Gasolina.pdb
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.dll
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/ref/Gasolina.dll
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.pdb
+/home/usuario/Mauá/C#/Csharp/Gasolina/obj/Debug/net5.0/Gasolina.genruntimeconfig.cache
