@@ -1,5 +1,7 @@
 dotnet new console -n [nome da pasta]
 
+dotnet new webapi -n [nome da pasta (aplicação web)]
+
 cd [nome da pasta]
 
 explorer .
