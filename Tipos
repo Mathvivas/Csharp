@@ -1,0 +1,25 @@
+## Tipos por Valor
+
+Todos os tipos de dados numéricos;
+
+Não precisam ser inicializados com o operador new;
+
+A variável armazena o valor diretamente;
+
+A atribuição de uma variável a outra, copia o conteúdo, criando 
+efetivamente outa cópia da variável;
+
+Não podem conter o valor null;
+
+Exemplos: integers, doubles, floats e char.
+
+## Tipos por Referência
+
+Armazena uma referência a seus dados;
+
+Duas variáveis podem conter a referência a um mesmo objeto;
+
+Operações em uma, afetam a outra;
+
+Exemplos: Todas as matrizes (mesmo que seus elementos sejam de tipos de valor),
+strings, classes e arrays.
