@@ -54,7 +54,32 @@ namespace Alunos
                         }
 
                         decimal media = total / numAlu;
-                        Console.WriteLine($"\nMÉDIA: {media}");
+                        Conceito conceito = 0;
+
+                        switch (media) 
+                        {
+                            case < 2:
+                                conceito = Conceito.E;
+                                break;
+
+                            case < 4:
+                                conceito = Conceito.D;
+                                break;
+
+                            case < 6:
+                                conceito = Conceito.C;
+                                break;
+
+                            case < 8:
+                                conceito = Conceito.B;
+                                break;
+
+                            case <= 10:
+                                conceito = Conceito.A;
+                                break;
+                        }
+
+                        Console.WriteLine($"\nMÉDIA: {media} \nCONCEITO: {conceito}");
                         break;
 
                     case "0":
