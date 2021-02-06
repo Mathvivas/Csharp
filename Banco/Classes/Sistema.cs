@@ -55,7 +55,7 @@ namespace Banco
             } while ( op != "0" );
         }
 
-        public static void inserirConta()
+        private static void inserirConta()
         {
             Console.WriteLine("\n|===| Inserir Nova Conta |===|");
 
@@ -79,7 +79,7 @@ namespace Banco
             listContas.Add(novaConta);
         }
 
-        public static void listarContas() 
+        private static void listarContas() 
         {
             Console.WriteLine("\n|===| Listar Contas |===|");
 
@@ -92,9 +92,20 @@ namespace Banco
             for ( int i = 0; i < listContas.Count; i++ ) 
             {
                 Conta conta = listContas[i];
-                Console.Write("#{0} - ", i);
+                Console.WriteLine("\n#{0} - ", i);
                 Console.WriteLine(conta);
             }
+        }
+
+        private static void sacar() 
+        {
+            Console.Write("\nDigite o número da conta: ");
+            int indiceConta = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o valor a ser sacado: ");
+            double valorSaque = double.Parse(Console.ReadLine());
+
+            listContas[indiceConta].sacar(valorSaque);
         }
     }
 }
