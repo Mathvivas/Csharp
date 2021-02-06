@@ -6,9 +6,50 @@ namespace Banco
     {
         static void Main(string[] args)
         {
-            Conta conta = new Conta (TipoConta.PessoaFisica, 500, 0, "Matheus");
+            Menu menu = new Menu();
 
-            Console.WriteLine(conta.ToString());
+            string op;
+
+            do
+            {
+                op = menu.run();
+
+                switch (op)
+                {
+                    case "1":
+                        listarContas();
+                        break;
+
+                    case "2":
+                        inserirConta();
+                        break;
+
+                    case "3":
+                        transferir();
+                        break;
+                    
+                    case "4":
+                        sacar();
+                        break;
+                    
+                    case "5":
+                        depositar();
+                        break;
+                    
+                    case "6":
+                        Console.Clear();
+                        break;
+
+                    case "0":
+                        Console.WriteLine("Obrigado! Até logo!");
+                        break;
+
+                    default:
+                        Console.WriteLine("Opção Inválida! Tente Novamente!");
+                        break;
+                }
+
+            } while ( op != "0" );
         }
     }
 }
