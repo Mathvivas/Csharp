@@ -118,5 +118,19 @@ namespace Banco
 
             listContas[indiceConta].depositar(valorDeposito);
         }
+
+        private static void transferir()
+        {
+            Console.Write("\nDigite o número da conta de origem: ");
+            int indiceContaOrigem = int.Parse(Console.ReadLine());
+
+            Console.Write("\nDigite o número da conta de destino: ");
+            int indiceContaDestino = int.Parse(Console.ReadLine());
+
+            Console.Write("\nDigite o valor a ser transferido: ");
+            double valorTransferencia = double.Parse(Console.ReadLine());
+
+            listContas[indiceContaOrigem].transferir(valorTransferencia, listContas[indiceContaDestino]);
+        }
     }
 }
