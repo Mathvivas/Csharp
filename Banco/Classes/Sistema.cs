@@ -102,10 +102,21 @@ namespace Banco
             Console.Write("\nDigite o número da conta: ");
             int indiceConta = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o valor a ser sacado: ");
+            Console.Write("\nDigite o valor a ser sacado: ");
             double valorSaque = double.Parse(Console.ReadLine());
 
             listContas[indiceConta].sacar(valorSaque);
+        }
+
+        private static void depositar()
+        {
+            Console.Write("\nDigite o número da conta: ");
+            int indiceConta = int.Parse(Console.ReadLine());
+
+            Console.Write("\nDigite o valor a ser depositado: ");
+            double valorDeposito = double.Parse(Console.ReadLine());
+
+            listContas[indiceConta].depositar(valorDeposito);
         }
     }
 }
