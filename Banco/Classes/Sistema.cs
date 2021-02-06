@@ -1,7 +1,82 @@
-namespace Banco.Classes
+using System.Collections.Generic;
+using System;
+
+namespace Banco
 {
     public class Sistema
     {
+        static List<Conta> listContas = new List<Conta>();
         
+        public void run()
+        {
+            Menu menu = new Menu();
+
+            string op;
+
+            do
+            {
+                op = menu.run();
+
+                switch (op)
+                {
+                    case "1":
+                        listarContas();
+                        break;
+
+                    case "2":
+                        inserirConta();
+                        break;
+
+                    case "3":
+                        transferir();
+                        break;
+                    
+                    case "4":
+                        sacar();
+                        break;
+                    
+                    case "5":
+                        depositar();
+                        break;
+                    
+                    case "6":
+                        Console.Clear();
+                        break;
+
+                    case "0":
+                        Console.WriteLine("Obrigado! Até logo!");
+                        break;
+
+                    default:
+                        Console.WriteLine("Opção Inválida! Tente Novamente!");
+                        break;
+                }
+
+            } while ( op != "0" );
+        }
+
+        public static void inserirConta()
+        {
+            Console.WriteLine("\n|===| Inserir Nova Conta |===|");
+
+            Console.WriteLine("\nDigite 1 para Conta Física ou 2 para Conta Jurídica: ");
+            int entradaTipoConta = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("\nDigite o Nome do Cliente: ");
+            string entradaNome = Console.ReadLine();
+
+            Console.WriteLine("\nDigite o Saldo Inicial: ");
+            double entradaSaldo = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o Crédito: ");
+            double entradaCredito = double.Parse(Console.ReadLine());
+
+            Conta novaConta = new Conta(tipoConta: (TipoConta)entradaTipoConta,
+                                                    saldo: entradaSaldo, 
+                                                    credito: entradaCredito,
+                                                    nome: entradaNome);
+
+            listContas.Add(novaConta);
+        }
     }
 }
