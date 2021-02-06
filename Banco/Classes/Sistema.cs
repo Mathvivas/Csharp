@@ -78,5 +78,23 @@ namespace Banco
 
             listContas.Add(novaConta);
         }
+
+        public static void listarContas() 
+        {
+            Console.WriteLine("\n|===| Listar Contas |===|");
+
+            if ( listContas.Count == 0 )
+            {
+                Console.WriteLine("\nNenhuma conta cadastrada!");
+                return;
+            }
+
+            for ( int i = 0; i < listContas.Count; i++ ) 
+            {
+                Conta conta = listContas[i];
+                Console.Write("#{0} - ", i);
+                Console.WriteLine(conta);
+            }
+        }
     }
 }
