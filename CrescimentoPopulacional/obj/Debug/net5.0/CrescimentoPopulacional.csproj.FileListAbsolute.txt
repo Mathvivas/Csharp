@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/CrescimentoPopulacional
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/CrescimentoPopulacional.deps.json
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/CrescimentoPopulacional.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/CrescimentoPopulacional.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/CrescimentoPopulacional.dll
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/ref/CrescimentoPopulacional.dll
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/bin/Debug/net5.0/CrescimentoPopulacional.pdb
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.dll
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/ref/CrescimentoPopulacional.dll
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.pdb
+/home/usuario/Mauá/C#/Csharp/CrescimentoPopulacional/obj/Debug/net5.0/CrescimentoPopulacional.genruntimeconfig.cache
