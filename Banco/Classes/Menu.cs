@@ -1,6 +1,6 @@
 using System;
 
-namespace Banco.Classes
+namespace Banco
 {
     public class Menu
     {
