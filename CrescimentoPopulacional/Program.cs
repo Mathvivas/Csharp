@@ -19,17 +19,21 @@ namespace CrescimentoPopulacional
                 Console.WriteLine("Digite a PopA, PopB, CrescA, CrescB (separados por espaço): ");
                 string[] valores = Console.ReadLine().Split();
                 pa = int.Parse(valores[0]);
+                Console.WriteLine("pa = " + pa);
                 pb = int.Parse(valores[1]);
+                Console.WriteLine("pb = " + pb);
 
                //declare as variaveis corretamente
                 cpa = double.Parse(valores[2]);
+                Console.WriteLine("cpa = " + cpa);
                 cpb = double.Parse(valores[3]);
+                Console.WriteLine("cpb = " + cpb);
 
                 while (pa <= pb)
                 {
                    //complete o while
-                   pa = Convert.ToInt32((pa * cpa / 100) + pa);
-                   pb = Convert.ToInt32((pb * cpb / 100) + pb);
+                   pa = (int)((pa * cpa / 100) + pa);
+                   pb = (int)((pb * cpb / 100) + pb);
                    anos++;
 
                     if (anos > 100)
