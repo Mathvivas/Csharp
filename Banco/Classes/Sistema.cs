@@ -68,7 +68,7 @@ namespace Banco
             Console.WriteLine("\nDigite o Saldo Inicial: ");
             double entradaSaldo = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o Crédito: ");
+            Console.WriteLine("\nDigite o Crédito: ");
             double entradaCredito = double.Parse(Console.ReadLine());
 
             Conta novaConta = new Conta(tipoConta: (TipoConta)entradaTipoConta,
