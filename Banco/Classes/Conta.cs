@@ -1,6 +1,6 @@
 using System;
 
-namespace Banco.Conta
+namespace Banco
 {
     public class Conta
     {
@@ -48,6 +48,16 @@ namespace Banco.Conta
             {
                 contaDestino.depositar(valorTransferencia);
             }
+        }
+
+        public override string ToString()
+        {
+            string retorno = "";
+            retorno += "TipoConta: " + this.tipoConta + "\n";
+            retorno += "Nome: " + this.nome + "\n";
+            retorno += "Saldo: " + this.saldo + "\n";
+            retorno += "Crédito: " + this.credito;
+            return retorno;
         }
     }
 }

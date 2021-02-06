@@ -6,7 +6,9 @@ namespace Banco
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Conta conta = new Conta (TipoConta.PessoaFisica, 500, 0, "Matheus");
+
+            Console.WriteLine(conta.ToString());
         }
     }
 }

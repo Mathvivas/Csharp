@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/Banco
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/Banco.deps.json
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/Banco.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/Banco.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/Banco.dll
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/ref/Banco.dll
+/home/usuario/Mauá/C#/Csharp/Banco/bin/Debug/net5.0/Banco.pdb
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.dll
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/ref/Banco.dll
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.pdb
+/home/usuario/Mauá/C#/Csharp/Banco/obj/Debug/net5.0/Banco.genruntimeconfig.cache
