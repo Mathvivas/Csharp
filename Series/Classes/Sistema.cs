@@ -141,5 +141,16 @@ namespace Series.Classes
 
             repositorio.exclui(indiceSerie);
         }
+
+        private static void visualizarSerie()
+        {
+            Console.WriteLine("\n|===| Visualizar Série |===|");
+            Console.WriteLine("Digite o id da série: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            var serie = repositorio.retornaPorId(indiceSerie);
+
+            Console.WriteLine(serie);
+        }
     }
 }
