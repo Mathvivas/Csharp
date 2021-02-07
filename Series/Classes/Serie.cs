@@ -29,7 +29,8 @@ namespace Series.Classes
             retorno += "Gênero: " + this.genero + Environment.NewLine;
             retorno += "Título: " + this.titulo + Environment.NewLine;
             retorno += "Descrição: " + this.descricao + Environment.NewLine;
-            retorno += "Ano de Início: " + this.ano;
+            retorno += "Ano de Início: " + this.ano + Environment.NewLine;
+            retorno += "Excluído: " + this.excluido;
             return retorno;
         }
 

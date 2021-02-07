@@ -100,5 +100,46 @@ namespace Series.Classes
             
             repositorio.insere(novaSerie);
         }
+
+        private static void atualizarSerie()
+        {
+            Console.WriteLine("\n|===| Atualizar Série |===|");
+            Console.WriteLine("Digite o id da série: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            foreach ( int i in Enum.GetValues(typeof(Genero)) )
+            {
+                Console.WriteLine("{0} - {1}", i, Enum.GetName(typeof(Genero), i));
+            }
+
+            Console.WriteLine("Digite o Gênero entre as opções acima: ");
+            int entradaGenero = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o Título da Série: ");
+            string entradaTitulo = Console.ReadLine();
+
+            Console.WriteLine("Digite o Ano de Início da Série: ");
+            int entradaAno = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite a Descrição da Série: ");
+            string entradaDescricao = Console.ReadLine();
+
+            Serie atualizaSerie = new Serie(id: indiceSerie,
+                                            genero: (Genero)entradaGenero,
+                                            titulo: entradaTitulo,
+                                            descricao: entradaDescricao,
+                                            ano: entradaAno);
+
+            repositorio.atualiza(indiceSerie, atualizaSerie);
+        }
+
+        private static void excluirSerie()
+        {
+            Console.WriteLine("\n|===| Excluir Série |===|");
+            Console.WriteLine("Digite o id da série: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+
+            repositorio.exclui(indiceSerie);
+        }
     }
 }
