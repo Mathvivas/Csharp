@@ -1,7 +1,7 @@
 namespace Series.Classes
 {
-    public class EntidadeBase
+    public abstract class EntidadeBase
     {
-        
+        public int id { get; protected set; }
     }
 }
