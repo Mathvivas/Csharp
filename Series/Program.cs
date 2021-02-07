@@ -1,4 +1,5 @@
 ﻿using System;
+using Series.Classes;
 
 namespace Series
 {
@@ -6,7 +7,9 @@ namespace Series
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Sistema sistema = new Sistema();
+
+            sistema.run();
         }
     }
 }
