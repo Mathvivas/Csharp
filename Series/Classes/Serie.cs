@@ -44,6 +44,11 @@ namespace Series.Classes
             return this.id;
         }
 
+        public bool retornaExcluido()
+        {
+            return this.excluido;
+        }
+
         public void excluir()
         {
             this.excluido = true;
