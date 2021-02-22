@@ -1,0 +1,16 @@
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/NotasMoedas
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/NotasMoedas.deps.json
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/NotasMoedas.runtimeconfig.json
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/NotasMoedas.runtimeconfig.dev.json
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/NotasMoedas.dll
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/ref/NotasMoedas.dll
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/bin/Debug/net5.0/NotasMoedas.pdb
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.csprojAssemblyReference.cache
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.AssemblyInfoInputs.cache
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.AssemblyInfo.cs
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.csproj.CoreCompileInputs.cache
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.dll
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/ref/NotasMoedas.dll
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.pdb
+/home/usuario/Mauá/C#/Csharp/NotasMoedas/obj/Debug/net5.0/NotasMoedas.genruntimeconfig.cache
