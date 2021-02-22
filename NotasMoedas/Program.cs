@@ -18,9 +18,9 @@ namespace NotasMoedas
 
 
             Console.WriteLine("\nNOTAS:");
+
             Console.WriteLine("{0} nota(s) de R$ 100.00", inteiro/100);
             auxNotas = (inteiro % 100);
-            //complete o código
             Console.WriteLine("{0} nota(s) de R$ 50.00", auxNotas/50);
             auxNotas = (auxNotas % 50);
             Console.WriteLine("{0} nota(s) de R$ 20.00", auxNotas/20);
@@ -34,18 +34,18 @@ namespace NotasMoedas
             
 
             Console.WriteLine("\nMOEDAS:");
+            
             Console.WriteLine("{0} moeda(s) de R$ 1.00", auxNotas / 1);
             auxMoedas %= 100;
-            //complete o codigo
-            Console.WriteLine("{0} moeda(s) de R$ 0.50", auxMoedas / 0.5);
+            Console.WriteLine("{0} moeda(s) de R$ 0.50", auxMoedas / 50);
             auxMoedas %= 50;
-            Console.WriteLine("{0} moeda(s) de R$ 0.25", auxMoedas / 0.25);
+            Console.WriteLine("{0} moeda(s) de R$ 0.25", auxMoedas / 25);
             auxMoedas %= 25;
-            Console.WriteLine("{0} moeda(s) de R$ 0.10", auxMoedas / 0.1);
+            Console.WriteLine("{0} moeda(s) de R$ 0.10", auxMoedas / 10);
             auxMoedas %= 10;
-            Console.WriteLine("{0} moeda(s) de R$ 0.05", auxMoedas / 0.05);
+            Console.WriteLine("{0} moeda(s) de R$ 0.05", auxMoedas / 5);
             auxMoedas %= 5;
-            Console.WriteLine("{0} moeda(s) de R$ 0.01", auxMoedas / 0.01);
+            Console.WriteLine("{0} moeda(s) de R$ 0.01", auxMoedas / 1);
 
         }
     }
