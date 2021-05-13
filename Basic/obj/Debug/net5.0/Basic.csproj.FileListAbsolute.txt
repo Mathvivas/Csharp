@@ -1,0 +1,16 @@
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.csprojAssemblyReference.cache
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.AssemblyInfoInputs.cache
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.AssemblyInfo.cs
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.csproj.CoreCompileInputs.cache
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/Basic
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/Basic.deps.json
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/Basic.runtimeconfig.json
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/Basic.runtimeconfig.dev.json
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/Basic.dll
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/ref/Basic.dll
+/home/matheus/Github/Csharp/Basic/bin/Debug/net5.0/Basic.pdb
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.dll
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/ref/Basic.dll
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.pdb
+/home/matheus/Github/Csharp/Basic/obj/Debug/net5.0/Basic.genruntimeconfig.cache
