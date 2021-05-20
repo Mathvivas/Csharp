@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic
 {
-    class ConversoesImplicitas : IAulaItem
+    class ConversoesExplicitas : IAulaItem
     {
         public void Executar()
         {
