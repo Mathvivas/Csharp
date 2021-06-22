@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using CursoApi.Models.Usuarios;
 using CursoApi.Models;
 using Swashbuckle.AspNetCore.Annotations;
+using CursoApi.Filters;
 
 namespace CursoApi.Controllers {
 
@@ -28,13 +29,15 @@ namespace CursoApi.Controllers {
         [SwaggerResponse(statusCode: 500, description: "Erro Interno", Type = typeof(ErroGenericoViewModel))]
         [HttpPost]
         [Route("logar")]
+        [ValidacaoModelStateCustomizado]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput) {
-            
+
             return Ok(loginViewModelInput);
         }
 
         [HttpPost]
         [Route("registrar")]
+        [ValidacaoModelStateCustomizado]
         public IActionResult Registrar(RegistroViewModelInput registroViewModelInput) {
             
             return Created("", registroViewModelInput);
