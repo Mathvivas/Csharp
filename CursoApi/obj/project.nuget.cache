@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AJXfGWhDQ0V8jhI4+WTqp4Aiyrc5pPIGINIWMMyvIasGW9qSGGevAbjPFKJE99T/RzaQoIbNhwm21Ve45+Qu3w==",
+  "dgSpecHash": "HnQgopUMkn1jmFA39zlysoB48QF8by0fpg8jWqKCviJfi7LI3LRzoMGQuPJ6CCL3nWcI3SBKzY0ysEYldzlM5g==",
   "success": true,
   "projectFilePath": "/home/matheus/Github/Csharp/CursoApi/CursoApi.csproj",
   "expectedPackageFiles": [
     "/home/matheus/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/matheus/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/home/matheus/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.annotations/5.6.3/swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
     "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "/home/matheus/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"

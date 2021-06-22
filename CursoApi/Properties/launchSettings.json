@@ -19,7 +19,6 @@
     },
     "CursoApi": {
       "commandName": "Project",
-      "dotnetRunMessages": "true",
       "launchBrowser": true,
       "launchUrl": "",
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
